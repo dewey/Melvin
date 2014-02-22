@@ -1094,6 +1094,15 @@
 			<key>Name</key>
 			<string>gusi</string>
 	</dict>
+	<key>strache.png</key>
+	<dict>
+		<key>Equivalents</key>
+			<array>
+				<string>:strache:</string>
+			</array>
+			<key>Name</key>
+			<string>strache</string>
+	</dict>
 	</dict>
 </dict>
 </plist>
