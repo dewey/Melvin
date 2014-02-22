@@ -1084,7 +1084,16 @@
 			<key>Name</key>
 			<string>challenge accepted</string>
 	</dict>
-
+<key>gusi.png</key>
+	<dict>
+		<key>Equivalents</key>
+			<array>
+				<string>:gusi:</string>
+				<string>:wos:</string>
+			</array>
+			<key>Name</key>
+			<string>gusi</string>
+	</dict>
 	</dict>
 </dict>
 </plist>
