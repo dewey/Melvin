@@ -1,4 +1,4 @@
-# Melvin - Emotictionset for Adium.app
+# Melvin - Emoticonset for Adium.app
 
 This emoticonset includes some of the popular rage faces and the cream of the crop of austrian politics. 
 
