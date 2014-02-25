@@ -1,14 +1,16 @@
 # Install
 
-    cd ~/Documents/
-    git clone https://github.com/dewey/Melvin.git
-    cp -R Melvin ~/Library/Application\ Support/Adium\ 2.0/Emoticons/Melvin.AdiumEmoticonset
+    git clone https://github.com/dewey/Melvin.git ~/Library/Application\ Support/Adium\ 2.0/Emoticons/Melvin.AdiumEmoticonset
+    
+## Cleanup old version
+
+    rm -rf ~/Library/Application\ Support/Adium\ 2.0/Emoticons/Melvin.AdiumEmoticonset
     
 # Update
 
-    cd ~/Documents/Melvin
+    cd ~/Library/Application\ Support/Adium\ 2.0/Emoticons/Melvin.AdiumEmoticonset
     git pull
-    cp -R ~/Documents/Melvin ~/Library/Application\ Support/Adium\ 2.0/Emoticons/Melvin.AdiumEmoticonset
+    
     
 # Gusi Seal of Approval
 
