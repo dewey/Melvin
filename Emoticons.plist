@@ -1112,6 +1112,42 @@
 			<key>Name</key>
 			<string>gorbach</string>
 	</dict>
+		<key>werner1.png</key>
+	<dict>
+		<key>Equivalents</key>
+			<array>
+				<string>:werner1:</string>
+			</array>
+			<key>Name</key>
+			<string>werner1</string>
+	</dict>
+		<key>werner2.png</key>
+	<dict>
+		<key>Equivalents</key>
+			<array>
+				<string>:werner2:</string>
+			</array>
+			<key>Name</key>
+			<string>werner2</string>
+	</dict>
+		<key>werner3.png</key>
+	<dict>
+		<key>Equivalents</key>
+			<array>
+				<string>:werner3:</string>
+			</array>
+			<key>Name</key>
+			<string>werner3</string>
+	</dict>
+		<key>werner4.png</key>
+	<dict>
+		<key>Equivalents</key>
+			<array>
+				<string>:werner4:</string>
+			</array>
+			<key>Name</key>
+			<string>werner4</string>
+	</dict>
 	</dict>
 </dict>
 </plist>
