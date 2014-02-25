@@ -1112,41 +1112,41 @@
 			<key>Name</key>
 			<string>gorbach</string>
 	</dict>
-		<key>faymann1.png</key>
+		<key>werner1.png</key>
 	<dict>
 		<key>Equivalents</key>
 			<array>
-				<string>:faymann1:</string>
+				<string>:werner1:</string>
 			</array>
 			<key>Name</key>
-			<string>faymann1</string>
+			<string>werner1</string>
 	</dict>
-		<key>faymann2.png</key>
+		<key>werner2.png</key>
 	<dict>
 		<key>Equivalents</key>
 			<array>
-				<string>:faymann2:</string>
+				<string>:werner2:</string>
 			</array>
 			<key>Name</key>
-			<string>faymann2</string>
+			<string>werner2</string>
 	</dict>
-		<key>faymann3.png</key>
+		<key>werner3.png</key>
 	<dict>
 		<key>Equivalents</key>
 			<array>
-				<string>:faymann3:</string>
+				<string>:werner3:</string>
 			</array>
 			<key>Name</key>
-			<string>faymann3</string>
+			<string>werner3</string>
 	</dict>
-		<key>faymann4.png</key>
+		<key>werner4.png</key>
 	<dict>
 		<key>Equivalents</key>
 			<array>
-				<string>:faymann4:</string>
+				<string>:werner4:</string>
 			</array>
 			<key>Name</key>
-			<string>faymann4</string>
+			<string>werner4</string>
 	</dict>
 	</dict>
 </dict>
