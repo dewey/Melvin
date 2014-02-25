@@ -1103,6 +1103,15 @@
 			<key>Name</key>
 			<string>strache</string>
 	</dict>
+	<key>gorbach.png</key>
+	<dict>
+		<key>Equivalents</key>
+			<array>
+				<string>:gorbach:</string>
+			</array>
+			<key>Name</key>
+			<string>gorbach</string>
+	</dict>
 	</dict>
 </dict>
 </plist>
