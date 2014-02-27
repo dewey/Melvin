@@ -1210,6 +1210,58 @@
 			<key>Name</key>
 			<string>moertel</string>
 	</dict>
+
+		<key>heifi1.png</key>
+	<dict>
+		<key>Equivalents</key>
+			<array>
+				<string>:heifi1:</string>
+			</array>
+			<key>Name</key>
+			<string>heifi1</string>
+	</dict>
+
+		<key>heifi2.png</key>
+	<dict>
+		<key>Equivalents</key>
+			<array>
+				<string>:heifi2:</string>
+				<string>:quote:</string>
+			</array>
+			<key>Name</key>
+			<string>heifi2</string>
+	</dict>
+
+		<key>heifi3.png</key>
+	<dict>
+		<key>Equivalents</key>
+			<array>
+				<string>:heifi3:</string>
+			</array>
+			<key>Name</key>
+			<string>heifi3</string>
+	</dict>
+
+		<key>heifi4.png</key>
+	<dict>
+		<key>Equivalents</key>
+			<array>
+				<string>:heifi4:</string>
+			</array>
+			<key>Name</key>
+			<string>heifi4</string>
+	</dict>
+
+		<key>heifi5.png</key>
+	<dict>
+		<key>Equivalents</key>
+			<array>
+				<string>:heifi5:</string>
+				<string>:daumenrauf:</string>
+			</array>
+			<key>Name</key>
+			<string>heifi5</string>
+	</dict>
 	</dict>
 </dict>
 </plist>
