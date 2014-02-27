@@ -1262,6 +1262,29 @@
 			<key>Name</key>
 			<string>heifi5</string>
 	</dict>
+
+	<key>specht1.png</key>
+	<dict>
+		<key>Equivalents</key>
+			<array>
+				<string>:specht1:</string>
+				<string>:spindi1:</string>
+			</array>
+			<key>Name</key>
+			<string>specht1</string>
+	</dict>
+
+	<key>specht2.png</key>
+	<dict>
+		<key>Equivalents</key>
+			<array>
+				<string>:specht2:</string>
+				<string>:spindi1:</string>
+				<string>:dafuq:</string>
+			</array>
+			<key>Name</key>
+			<string>specht2</string>
+	</dict>
 	</dict>
 </dict>
 </plist>
