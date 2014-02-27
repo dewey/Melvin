@@ -1157,6 +1157,56 @@
 			<key>Name</key>
 			<string>werner5</string>
 	</dict>
+
+	<key>miezi1.png</key>
+	<dict>
+		<key>Equivalents</key>
+			<array>
+				<string>:miezi1:</string>
+			</array>
+			<key>Name</key>
+			<string>miezi1</string>
+	</dict>
+
+	<key>miezi2.png</key>
+	<dict>
+		<key>Equivalents</key>
+			<array>
+				<string>:miezi2:</string>
+			</array>
+			<key>Name</key>
+			<string>miezi2</string>
+	</dict>
+
+	<key>miezi3.png</key>
+	<dict>
+		<key>Equivalents</key>
+			<array>
+				<string>:miezi3:</string>
+			</array>
+			<key>Name</key>
+			<string>miezi3</string>
+	</dict>
+
+	<key>miezi4.png</key>
+	<dict>
+		<key>Equivalents</key>
+			<array>
+				<string>:miezi4:</string>
+			</array>
+			<key>Name</key>
+			<string>miezi4</string>
+	</dict>
+
+	<key>mörtel.png</key>
+	<dict>
+		<key>Equivalents</key>
+			<array>
+				<string>:mörtel:</string>
+			</array>
+			<key>Name</key>
+			<string>mörtel</string>
+	</dict>
 	</dict>
 </dict>
 </plist>
