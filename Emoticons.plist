@@ -1274,6 +1274,38 @@
 			<string>specht1</string>
 	</dict>
 
+	<key>strache2.png</key>
+	<dict>
+		<key>Equivalents</key>
+			<array>
+				<string>:strache2:</string>
+				<string>:hc2:</string>
+			</array>
+			<key>Name</key>
+			<string>strache2</string>
+	</dict>
+
+	<key>specht3.png</key>
+	<dict>
+		<key>Equivalents</key>
+			<array>
+				<string>:specht3:</string>
+			</array>
+			<key>Name</key>
+			<string>specht3</string>
+	</dict>
+
+	<key>doh.png</key>
+	<dict>
+		<key>Equivalents</key>
+			<array>
+				<string>:doh:</string>
+				<string>:specht4:</string>
+			</array>
+			<key>Name</key>
+			<string>doh</string>
+	</dict>
+
 	<key>specht2.png</key>
 	<dict>
 		<key>Equivalents</key>
