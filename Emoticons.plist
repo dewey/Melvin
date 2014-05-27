@@ -1274,6 +1274,17 @@
 			<string>specht1</string>
 	</dict>
 
+	<key>strache2.png</key>
+	<dict>
+		<key>Equivalents</key>
+			<array>
+				<string>:strache2:</string>
+				<string>:hc2:</string>
+			</array>
+			<key>Name</key>
+			<string>strache2</string>
+	</dict>
+
 	<key>specht2.png</key>
 	<dict>
 		<key>Equivalents</key>
