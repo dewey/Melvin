@@ -1306,6 +1306,17 @@
 			<string>doh</string>
 	</dict>
 
+	<key>wolf.png</key>
+	<dict>
+		<key>Equivalents</key>
+			<array>
+				<string>:wolf:</string>
+				<string>:facepalm:</string>
+			</array>
+			<key>Name</key>
+			<string>wolf</string>
+	</dict>
+
 	<key>specht2.png</key>
 	<dict>
 		<key>Equivalents</key>
